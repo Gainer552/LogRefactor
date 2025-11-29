@@ -1,9 +1,5 @@
 #!/usr/bin/env bash
 
-# ===============================
-#   Log Noise Reducer Tool
-# ===============================
-
 # Color Codes
 RED="\033[31m"
 YELLOW="\033[33m"
